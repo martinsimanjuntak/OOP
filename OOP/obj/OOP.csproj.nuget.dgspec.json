@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kuliah\\Metro Data\\week 1\\OOP\\OOP\\OOP\\OOP.csproj": {}
+    "D:\\Kuliah\\Metro Data\\week 1\\tugas\\OOP\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "D:\\Kuliah\\Metro Data\\week 1\\OOP\\OOP\\OOP\\OOP.csproj": {
+    "D:\\Kuliah\\Metro Data\\week 1\\tugas\\OOP\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kuliah\\Metro Data\\week 1\\OOP\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "D:\\Kuliah\\Metro Data\\week 1\\tugas\\OOP\\OOP\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "D:\\Kuliah\\Metro Data\\week 1\\OOP\\OOP\\OOP\\OOP.csproj",
+        "projectPath": "D:\\Kuliah\\Metro Data\\week 1\\tugas\\OOP\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\MZ17\\.nuget\\packages\\",
-        "outputPath": "D:\\Kuliah\\Metro Data\\week 1\\OOP\\OOP\\OOP\\obj\\",
+        "outputPath": "D:\\Kuliah\\Metro Data\\week 1\\tugas\\OOP\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MZ17\\AppData\\Roaming\\NuGet\\NuGet.Config",
